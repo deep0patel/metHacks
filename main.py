@@ -9,7 +9,7 @@ pygame.init()
 SCREEN_WIDTH = 700
 SCREEN_HEIGHT = 700
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("ECOsort")
+pygame.display.set_caption("ECOSORT")
 # Set up the colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
